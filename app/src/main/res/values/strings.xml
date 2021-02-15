@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">instagramclone</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_user" />
+    <string name="title_heart" />
+    <string name="title_add" />
+    <string name="title_loupe" />
+
+
+
+
+
+
+    <string name="nayan">Nayan</string>
+    <string name="camera">camera</string>
+    <string name="itv">itv</string>
+    <string name="send">send</string>
+
+
+    <string name="hritik_roshan">hritik roshan</string>
+    <string name="todo">TODO</string>
+
+
+</resources>
